@@ -58,3 +58,7 @@
     font-weight:bold;
     font-family: 'HoengseongHanu';
 }
+
+p {
+    display:none;
+}
